@@ -1,0 +1,6 @@
+com\microservices\dao\UserDao.class
+com\microservices\entity\Contact.class
+com\microservices\controller\UserController.class
+com\microservices\MServicesApplication.class
+com\microservices\services\UserService.class
+com\microservices\entity\User.class
